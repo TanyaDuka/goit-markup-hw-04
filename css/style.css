@@ -455,7 +455,7 @@ header {
 
 .clients-item:hover,
 .clients-item:focus {
-  border: 1px solid var(--accent-color);
+  border-color: var(--accent-color);
 }
 
 .clients-item:hover .clients-icon,
